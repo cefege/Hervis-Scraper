@@ -1,6 +1,16 @@
 # Github Readme file for Hervis Crawler
 
-This is a Python script that crawls the [Hervis website](https://www.hervis.ro/) to extract metadata from the website's pages. 
+This is a Python script that crawls the [Hervis website](https://www.hervis.ro/) but it should work for  to extract metadata from the website's pages. 
+
+This script was initially designed to work with the Romanian Hervis website, which is located at . However, it should also work with the following Hervis local sites:
+
+- https://www.hervis.at/
+- https://www.hervis.de/
+- https://www.hervis.hu/
+- https://www.hervis.si/
+- https://www.hervis.hr/
+
+All of these websites share the same design and structure as the Romanian Hervis website and should be compatible with the crawler.
 
 The script uses the following packages:
 
